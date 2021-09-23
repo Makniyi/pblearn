@@ -2,3 +2,5 @@ This is my first attempt of adding a .txt file from the working dir to the stagi
 
 to do this i used the #git add <filename>
 
+
+Now i am working from a new branch so i can merge the branch with the main after this.
